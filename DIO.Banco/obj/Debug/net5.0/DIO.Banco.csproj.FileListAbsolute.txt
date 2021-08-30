@@ -1,0 +1,16 @@
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\bin\Debug\net5.0\DIO.Banco.exe
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\bin\Debug\net5.0\DIO.Banco.deps.json
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\bin\Debug\net5.0\DIO.Banco.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\bin\Debug\net5.0\DIO.Banco.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\bin\Debug\net5.0\DIO.Banco.dll
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\bin\Debug\net5.0\ref\DIO.Banco.dll
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\bin\Debug\net5.0\DIO.Banco.pdb
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.dll
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\ref\DIO.Banco.dll
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.pdb
+E:\FATEC\CURSOS\GITHUB\TRANFERENCIA-BANCARIA\Transferencia-Bancaria.NET\DIO.Banco\obj\Debug\net5.0\DIO.Banco.genruntimeconfig.cache
