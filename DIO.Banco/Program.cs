@@ -80,16 +80,14 @@ namespace DIO.Banco
       listContas[indiceContaOrigem].Transferir(valorTransferencia, listContas[indiceContaDestino]);
     }
 
-
-private static void SacarConta()
-{
-  System.Console.WriteLine("Digite o número da conta: ");
-  int indiceConta =int.Parse(Console.ReadLine());
-  System.Console.WriteLine("Digite o valor a ser sacado: ");
-  double valorDeposito = double.Parse(Console.ReadLine());
-  listContas[indiceConta]
-}
-
+    private static void SacarConta()
+    {
+      System.Console.WriteLine("Digite o número da conta: ");
+      int indiceConta = int.Parse(Console.ReadLine());
+      System.Console.WriteLine("Digite o valor a ser sacado: ");
+      double valorDeposito = double.Parse(Console.ReadLine());
+      listContas[indiceConta].Sacar(valorDeposito);
+    }
 
     private static void InserirConta()
     {
@@ -136,16 +134,18 @@ private static void SacarConta()
     private static string ObterOpcaoUsuario()
     {
       Console.WriteLine();
-      Console.WriteLine("DIO Bank a seu dispor!!!");
-      Console.WriteLine("Informe a opção desejada:");
+      Console.WriteLine("\n\tDIO Banco a seu dispor!!!");
+      Console.WriteLine("\tInforme a opção desejada:");
+      Console.WriteLine("\n\t#########################");
 
-      Console.WriteLine("1- Listar contas");
-      Console.WriteLine("2- Inserir nova conta");
-      Console.WriteLine("3- Transferir");
-      Console.WriteLine("4- Sacar");
-      Console.WriteLine("5- Depositar");
-      Console.WriteLine("C- Limpar Tela");
-      Console.WriteLine("X- Sair");
+      Console.WriteLine("\t1- Listar contas");
+      Console.WriteLine("\t2- Inserir nova conta");
+      Console.WriteLine("\t3- Transferir");
+      Console.WriteLine("\t4- Sacar");
+      Console.WriteLine("\t5- Depositar");
+      Console.WriteLine("\tC- Limpar Tela"); 
+      Console.WriteLine("\tX- Sair");
+      Console.WriteLine("\n\t#########################");
       Console.WriteLine();
 
       string opcaoUsuario = Console.ReadLine().ToUpper();
